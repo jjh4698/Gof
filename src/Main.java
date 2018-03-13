@@ -1,9 +1,9 @@
-import factoryPattern.RestaurantFactory;
-import factoryPattern.restaurant.MenuType;
-import factoryPattern.restaurant.Restaurant;
-import factoryPattern.UserDiscountFactory;
-import factoryPattern.user.User;
-import factoryPattern.user.UserType;
+import abstractfactory.RestaurantFactory;
+import abstractfactory.restaurant.MenuType;
+import abstractfactory.restaurant.Restaurant;
+import abstractfactory.UserDiscountFactory;
+import abstractfactory.user.User;
+import abstractfactory.user.UserType;
 
 public class Main {
 
